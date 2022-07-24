@@ -6,13 +6,13 @@
   <br>  
 **Day 2**<br>
 1. Designed the website on VS Code.<br>
-  a.What i learnt?
-   - Navigating to specific div in a single page website:
-   - Main mantra for vertical and horizontal aligning to centre :D
-    - display:flex
-    - allign-items:centre
-    - justify-content:centre
-2. Uploaded it to github using gitbash
+  a.What i learnt?<br>
+   - Navigating to specific div in a single page website.<br>
+   - Main mantra for vertical and horizontal aligning to centre :D<br>
+    - display:flex<br>
+    - allign-items:centre<br>
+    - justify-content:centre<br>
+2. Uploaded it to github using gitbash<br>
    a. What i learnt?
     - Cloning the repository.
     - Pushing the files on the repo
