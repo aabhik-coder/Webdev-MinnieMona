@@ -1,10 +1,10 @@
-##Webdev-MinnieMona<br><br>
-**Day 1 **<br>
+##Webdev-MinnieMona##<br><br>
+*****Day 1*****<br>
 1. Created Logo and UI for the website 
     - Logo Using Adobe Illustrator
     - UI using Figma(https://www.figma.com/file/mE8Z4FwQ3e3B33wPxzopXX/MinnieMona?node-id=0%3A1)
   <br><br>
-**Day 2**<br>
+*****Day 2*****<br>
 1. Designed the website on VS Code.<br>
   a. What i learnt?<br>
    - Navigating to specific div in a single page website.<br>
