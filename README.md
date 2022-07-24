@@ -9,12 +9,12 @@
   a.What i learnt?<br>
    - Navigating to specific div in a single page website.<br>
    - Main mantra for vertical and horizontal aligning to centre :D<br>
-    - display:flex<br>
-    - allign-items:centre<br>
-    - justify-content:centre<br>
+    display:flex<br>
+    allign-items:centre<br>
+    justify-content:centre<br>
 2. Uploaded it to github using gitbash<br>
-   a. What i learnt?
-    - Cloning the repository.
-    - Pushing the files on the repo
-    - Committing changes.
+   a. What i learnt?<br>
+    - Cloning the repository.<br>
+    - Pushing the files on the repo<br>
+    - Committing changes.<br>
 3. Hosted it on github pages (https://aabhik-coder.github.io/Webdev-MinnieMona/index.html)
