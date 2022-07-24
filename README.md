@@ -8,12 +8,14 @@ Webdev-MinnieMona
 1.Designed the website on VS Code.
   a.What i learnt?
    - Navigating to specific div in a single page website:
+   - <!--
      <a href="#thisdiv">click here</a>
      <div id="thisdiv"> some codes</div>
+     -->
    -Main mantra for vertical dna horizontal aligning to centre :D
-     display:flex;
-     allign-items:centre;
-     justify-content:centre;
+    - display:flex;
+    - allign-items:centre;
+    - justify-content:centre;
 2.Uploaded it to github using gitbash
   a. What i learnt?
    - Cloning the repository.
